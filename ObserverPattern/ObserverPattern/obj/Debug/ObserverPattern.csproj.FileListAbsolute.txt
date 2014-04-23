@@ -1,0 +1,6 @@
+C:\Users\alex.clarke\Documents\Visual Studio 2013\Projects\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\alex.clarke\Documents\Visual Studio 2013\Projects\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
+C:\Users\alex.clarke\Documents\Visual Studio 2013\Projects\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\alex.clarke\Documents\Visual Studio 2013\Projects\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\alex.clarke\Documents\Visual Studio 2013\Projects\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\alex.clarke\Documents\Visual Studio 2013\Projects\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
