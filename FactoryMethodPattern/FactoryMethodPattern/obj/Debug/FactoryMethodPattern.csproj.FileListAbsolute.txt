@@ -9,3 +9,6 @@ C:\Users\alex.clarke\Documents\Visual Studio 2013\Projects\FactoryMethodPattern\
 U:\Backup\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.config
 U:\Backup\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
 U:\Backup\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb
+U:\Backup\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
+U:\Backup\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
+U:\Backup\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csprojResolveAssemblyReference.cache

@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace FactoryMethodPattern
 {
-    class ConcreteFactory1 : IFactory
+    class ConcreteCreator2 : ICreator
     {
 
         public override IProduct factoryMethod()
         {
-            return new ConcreteProduct1();
+            return new ConcreteProduct2();
         }
-
     }
 }

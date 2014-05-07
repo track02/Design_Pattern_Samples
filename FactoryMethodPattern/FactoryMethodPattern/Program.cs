@@ -11,12 +11,12 @@ namespace FactoryMethodPattern
         static void Main(string[] args)
         {
 
-            IFactory[] factories = new IFactory[2];
+            ICreator[] factories = new ICreator[2];
 
-            factories[0] = new ConcreteFactory1();
-            factories[1] = new ConcreteFactory2();
+            factories[0] = new ConcreteCreator1();
+            factories[1] = new ConcreteCreator2();
 
-            foreach(IFactory f in factories)
+            foreach(ICreator f in factories)
             {
                 IProduct newprod = f.factoryMethod();
                 Console.WriteLine(newprod.getName());

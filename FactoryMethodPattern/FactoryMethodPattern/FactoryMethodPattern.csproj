@@ -41,11 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConcreteFactory1.cs" />
-    <Compile Include="ConcreteFactory2.cs" />
+    <Compile Include="ConcreteCreator1.cs" />
+    <Compile Include="ConcreteCreator2.cs" />
     <Compile Include="ConcreteProduct1.cs" />
     <Compile Include="ConcreteProduct2.cs" />
-    <Compile Include="IFactory.cs" />
+    <Compile Include="ICreator.cs" />
     <Compile Include="IProduct.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

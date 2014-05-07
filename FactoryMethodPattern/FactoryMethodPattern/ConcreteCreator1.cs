@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace FactoryMethodPattern
 {
-    abstract class IFactory
+    class ConcreteCreator1 : ICreator
     {
 
-        public abstract IProduct factoryMethod();
-
+        public override IProduct factoryMethod()
+        {
+            return new ConcreteProduct1();
+        }
 
     }
 }
