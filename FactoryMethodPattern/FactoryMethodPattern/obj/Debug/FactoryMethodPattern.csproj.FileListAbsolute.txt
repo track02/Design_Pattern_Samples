@@ -1,0 +1,11 @@
+C:\Users\alex.clarke\AppData\Local\Temporary Projects\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.config
+C:\Users\alex.clarke\AppData\Local\Temporary Projects\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csprojResolveAssemblyReference.cache
+C:\Users\alex.clarke\Documents\Visual Studio 2013\Projects\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.config
+C:\Users\alex.clarke\Documents\Visual Studio 2013\Projects\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csprojResolveAssemblyReference.cache
+C:\Users\alex.clarke\Documents\Visual Studio 2013\Projects\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
+C:\Users\alex.clarke\Documents\Visual Studio 2013\Projects\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
+C:\Users\alex.clarke\Documents\Visual Studio 2013\Projects\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
+C:\Users\alex.clarke\Documents\Visual Studio 2013\Projects\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb
+U:\Backup\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.config
+U:\Backup\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
+U:\Backup\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb
