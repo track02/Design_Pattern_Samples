@@ -1,0 +1,6 @@
+c:\users\alex.clarke\documents\visual studio 2013\Projects\Singleton Pattern\Singleton Pattern\bin\Debug\Singleton Pattern.exe.config
+c:\users\alex.clarke\documents\visual studio 2013\Projects\Singleton Pattern\Singleton Pattern\bin\Debug\Singleton Pattern.exe
+c:\users\alex.clarke\documents\visual studio 2013\Projects\Singleton Pattern\Singleton Pattern\bin\Debug\Singleton Pattern.pdb
+c:\users\alex.clarke\documents\visual studio 2013\Projects\Singleton Pattern\Singleton Pattern\obj\Debug\Singleton Pattern.csprojResolveAssemblyReference.cache
+c:\users\alex.clarke\documents\visual studio 2013\Projects\Singleton Pattern\Singleton Pattern\obj\Debug\Singleton Pattern.exe
+c:\users\alex.clarke\documents\visual studio 2013\Projects\Singleton Pattern\Singleton Pattern\obj\Debug\Singleton Pattern.pdb
