@@ -23,7 +23,7 @@ namespace Command_Pattern
 
         public void off()
         {
-            Console.WriteLine("TV in the " + location + " is on!");
+            Console.WriteLine("TV in the " + location + " is off!");
         }
 
     }

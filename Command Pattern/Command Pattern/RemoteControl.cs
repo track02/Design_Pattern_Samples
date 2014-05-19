@@ -12,11 +12,18 @@ namespace Command_Pattern
     {
 
        private List<ICommand> onCommands = new List<ICommand>();
+       private List<ICommand> offCommands = new List<ICommand>();
+
        private ICommand lastCommand;
 
-       public void setCommand(ICommand command)
+       public void setOnCommand(ICommand command)
        {
            onCommands.Add(command);
+       }
+
+       public void setOffCommand(ICommand command)
+       {
+           offCommands.Add(command);
        }
 
 
@@ -26,6 +33,17 @@ namespace Command_Pattern
            lastCommand = onCommands[commandIndex];
        }
 
+
+        public void offButtonPressed(int commandIndex)
+       {
+           offCommands[commandIndex].execute();
+           lastCommand = offCommands[commandIndex];
+
+       }
+
+
+
+        
        public void undoPressed()
        {
            lastCommand.undo();
