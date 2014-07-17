@@ -1,0 +1,6 @@
+c:\users\alex.clarke\documents\visual studio 2013\Projects\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+c:\Users\alex.clarke\Documents\Visual Studio 2013\Projects\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.csprojResolveAssemblyReference.cache
+c:\Users\alex.clarke\Documents\Visual Studio 2013\Projects\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe
+c:\Users\alex.clarke\Documents\Visual Studio 2013\Projects\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.pdb
+c:\Users\alex.clarke\Documents\Visual Studio 2013\Projects\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.exe
+c:\Users\alex.clarke\Documents\Visual Studio 2013\Projects\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.pdb
