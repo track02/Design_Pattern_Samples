@@ -1,28 +1,35 @@
 Design-Patterns
 ===============
 
-Design Pattern Examples
+Collection of design pattern examples
 
+
+Adapter
+===============
+
+Command
+===============
 
 Decorator
 ===============
 
-Wrap a gift up in different layers of paper
+Facade
+===============
 
-Prints out the colour of each paper used and the name of the gift.
+Factory Method
+===============
 
-Sums the cost for each layer of paper and the enclosed gift.
-
+Iterator
+===============
 
 Observer
 ===============
 
-Create subject and observers
+Singleton
+===============
 
-Subscribe observers to subjects
+Template
+===============
 
-Notify observers, print for each notification received
 
-Unsubscribe observers, subscribe to another subject
 
-Notify observers, print for each notification received
